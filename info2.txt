@@ -1,6 +1,3 @@
 noi dung 001
 noi dung 002
-noi dung 003
-noi dung 004
-noi dung 005
-
+...................
